@@ -1,0 +1,12 @@
+com\achong\service\VlogService.class
+com\achong\service\impl\FansServiceImpl.class
+com\achong\base\BaseInfoProperties.class
+com\achong\base\RabbitMQConfig.class
+com\achong\service\impl\CommentServiceImpl.class
+com\achong\service\impl\VlogServiceImpl.class
+com\achong\service\impl\MsgServiceImpl.class
+com\achong\service\MsgService.class
+com\achong\service\FansService.class
+com\achong\service\impl\UserServiceImpl.class
+com\achong\service\UserService.class
+com\achong\service\CommentService.class

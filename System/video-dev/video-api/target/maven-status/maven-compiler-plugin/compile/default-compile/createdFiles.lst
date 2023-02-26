@@ -1,0 +1,15 @@
+com\achong\interceptor\UserTokenInterceptor.class
+com\achong\interceptor\PassportInterceptor.class
+com\achong\Application.class
+com\achong\controller\FansController.class
+com\achong\controller\PassportController.class
+com\achong\config\Knife4jConfig.class
+com\achong\RabbitMQConsumer.class
+com\achong\controller\HelloController.class
+com\achong\config\MinIOConfig.class
+com\achong\controller\MinioTestController.class
+com\achong\controller\CommentController.class
+com\achong\controller\MsgController.class
+com\achong\config\InterceptorConfig.class
+com\achong\controller\UserInfoController.class
+com\achong\controller\VlogController.class

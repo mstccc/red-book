@@ -1,0 +1,12 @@
+com\achong\pojo\Vlog.class
+com\achong\mapper\FansMapper.class
+com\achong\mapper\MyLikedVlogMapper.class
+com\achong\pojo\MyLikedVlog.class
+com\achong\mapper\VlogMapper.class
+com\achong\pojo\Users.class
+com\achong\mapper\CommentMapper.class
+com\achong\pojo\Comment.class
+com\achong\pojo\Fans.class
+com\achong\my\mapper\MyMapper.class
+com\achong\mybatis\utils\GeneratorDisplay.class
+com\achong\mapper\UsersMapper.class

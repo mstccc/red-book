@@ -1,0 +1,10 @@
+com\achong\mapper\VlogMapperCustom.class
+com\achong\mapper\FansMapper.class
+com\achong\mapper\CommentMapperCustom.class
+com\achong\mapper\FansMapperCustom.class
+com\achong\mapper\MyLikedVlogMapper.class
+com\achong\mapper\VlogMapper.class
+com\achong\mapper\CommentMapper.class
+com\achong\my\mapper\MyMapper.class
+com\achong\Repository\MessageRepository.class
+com\achong\mapper\UsersMapper.class

@@ -1,0 +1,8 @@
+spring:
+  application:
+      name: achong-video-nacos
+  cloud:
+    nacos:
+      config:
+        server-addr: 10.23.132.254:8848
+        file-extension: yaml
